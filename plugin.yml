@@ -1,0 +1,5 @@
+name: Back
+author: minijaham
+version: 1.0
+main: minijaham\Back\Main
+api: 3.14.1
